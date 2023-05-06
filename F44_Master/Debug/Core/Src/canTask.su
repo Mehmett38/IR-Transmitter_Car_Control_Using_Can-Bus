@@ -1,0 +1,2 @@
+../Core/Src/canTask.c:12:6:irfCanTask	144	static
+../Core/Src/canTask.c:120:6:canTx	16	static

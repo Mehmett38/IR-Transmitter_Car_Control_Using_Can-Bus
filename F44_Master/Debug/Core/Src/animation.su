@@ -1,0 +1,7 @@
+../Core/Src/animation.c:17:6:MD_Intro	16	static
+../Core/Src/animation.c:34:6:MD_Start	40	static
+../Core/Src/animation.c:55:6:MD_MainMenu	40	static
+../Core/Src/animation.c:76:6:MD_TimeSet	8	static
+../Core/Src/animation.c:98:6:MD_TimerConfig	40	static
+../Core/Src/animation.c:108:6:MD_SetAlarm	8	static
+../Core/Src/animation.c:129:9:MD_IsAlarm	4	static

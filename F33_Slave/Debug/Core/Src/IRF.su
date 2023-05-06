@@ -1,0 +1,2 @@
+../Core/Src/IRF.c:18:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/IRF.c:56:6:IRF_Init	8	static
